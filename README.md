@@ -31,7 +31,7 @@ View App on Render: [https://animewatchlist-6nzu.onrender.com/](https://animewat
 
 ### Setup
 
-bash
+```bash
 # Clone the repository
 git clone https://github.com/Alhamin-Ibrahim/AnimeWatchList.git
 cd AnimeWatchList
